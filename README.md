@@ -16,11 +16,11 @@ Project title: Patrona Puppy website
         
 ============================
 
-github report link: 
+github report link: https://github.com/gin4ever/eProject/tree/master/document
 
 ============================
 
-eProject published at: 
+eProject published at: https://gin4ever.github.io/eProject/.
 
 ============================
 
